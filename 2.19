@@ -1,0 +1,12 @@
+// 2.19 exercise
+int main( void )
+{
+   printf( "Enter three different integers:" )
+   
+   int num1; // first number to be read from user
+   int num2; // second number to be read from user
+   int num3; // third number to be read from user
+   
+   scanf( "%d %d %d" , &num1, &num2, &num3 ); // read three integers
+   
+   
